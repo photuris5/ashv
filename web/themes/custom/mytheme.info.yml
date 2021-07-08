@@ -1,0 +1,12 @@
+name: my custom theme
+type: theme
+description: This is my first theme
+core: 8.x
+core_version_requirement: ^8 || ^9
+base theme: classy
+screenshot: mytheme.png
+regions:
+  header: Header
+  content: Content
+  sidebar_first: Sidebar first
+  footer: Footer
